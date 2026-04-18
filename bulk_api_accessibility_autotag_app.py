@@ -149,7 +149,7 @@ def build_zip():
 st.markdown("""
 <div class="header-banner">
   <h1>♿ Owix PDF Accessibility Auto-Tagger</h1>
-  <p>Nutrient API · pdfua-1 · Multi-key bulk processing · Zero manual switching</p>
+  <p>OWIX API · pdfua-1 · BULK API key bulk processing · MULTIPLE FILE</p>
 </div>
 """, unsafe_allow_html=True)
 
